@@ -1,0 +1,31 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>CossiePlay</title>
+<!-- TemplateEndEditable -->
+<link href="../css/master.css" rel="stylesheet" type="text/css">
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body id= "Body" bgcolor="#FFE2BA">	
+<!-- TemplateBeginEditable name="Body" -->
+<h1 id= "Banner">CossiePlay</h1>
+<table id= "Navbar" width="100%" border="1">
+  <tbody>
+    <tr>
+      <td>About Us</td>
+      <td>Announcements</td>
+      <td>Cosplay Party</td>
+      <td>Costumes</td>
+      <td>Contact Us</td>
+      <td>Links</td>
+    </tr>
+  </tbody>
+</table>
+<!-- TemplateEndEditable -->
+</body>
+
+</html>
